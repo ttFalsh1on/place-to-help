@@ -12,3 +12,10 @@ footer {
     background-color: blue; 
     color: white;
 }
+
+nav {
+    color: rgb(6, 197, 255); 
+}
+h1 {
+  text-align: center;
+}
